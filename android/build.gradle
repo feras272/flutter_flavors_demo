@@ -1,3 +1,11 @@
+buildscript {
+    dependencies {
+        // Upgrade this to 8.1.0 or higher
+        classpath 'com.android.tools.build:gradle:8.1.0'
+    }
+}
+
+
 allprojects {
     repositories {
         google()
