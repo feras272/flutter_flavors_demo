@@ -28,7 +28,7 @@ if (flutterVersionName == null) {
 
 android {
     namespace = "com.ferasdev.flutter_flavors_demo"
-    compileSdk = 35//flutter.compileSdkVersion
+    compileSdk = 34//flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
     compileOptions {
